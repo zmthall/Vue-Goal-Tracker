@@ -1,0 +1,1253 @@
+[
+  {
+    "name": "Project 1: Portfolio",
+    "id": "Project-1",
+    "tech": ["Nuxt.js", "Vue 3", "Composition API"],
+    "description": "Create a responsive personal portfolio website using Nuxt.js and Vue 3. This project involves setting up a Nuxt application with the Composition API, building dynamic pages using the file-based routing system, and designing reusable components such as navigation bars, footers, and project cards. The portfolio will dynamically render project information from a local JSON file or CMS, allowing easy updates. Emphasis will be placed on mobile-first responsive design, social/contact links, route-based navigation, and SEO-friendly deployment. The project will be published using GitHub and deployed through platforms like Vercel or Netlify, and documented with a clean, screenshot-rich README.",
+    "tasks": [
+      {
+        "id": "fKjRtqWz",
+        "content": "Use Nuxt 3 with Vue 3 Composition API",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "rPvGhYtQ",
+        "content": "Set up Nuxt 3 project using `nuxi init`",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "nYsXqRbo",
+        "content": "Use `<script setup>` syntax for Composition API",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "JxkBdwLl",
+        "content": "Add pages via `pages/` directory for automatic routing",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "tZsVvHnu",
+        "content": "Create reusable components (project cards, nav, footer)",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "LmQjRkfD",
+        "content": "Design generic layout for project card component",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "KqWpYbZo",
+        "content": "Create a responsive navbar with dynamic links",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "XaFuQvMt",
+        "content": "Add footer with contact/social links",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "UrZhMiCf",
+        "content": "Display dynamic project content from JSON or CMS",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "YsRgVaEu",
+        "content": "Create a JSON file with structured project data",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "VtNcWdPy",
+        "content": "Loop through data using `v-for` and props",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "BtFqAmKg",
+        "content": "(Optional) Fetch from a headless CMS (e.g. Strapi, Contentful)",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "EgHsNiUv",
+        "content": "Implement mobile-first responsive layout",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "QmZnLpTy",
+        "content": "Add route-based page navigation",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "IoPwCxYa",
+        "content": "Include social/contact links with icons",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "WyErZkJl",
+        "content": "Host project on GitHub and deploy",
+        "isComplete": false,
+        "projectId": "Project-1"
+      },
+      {
+        "id": "ChLpVuQx",
+        "content": "Write a clean README with screenshots",
+        "isComplete": false,
+        "projectId": "Project-1"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 2: Form Wizard",
+    "id": "Project-2",
+    "tech": ["Vue.js", "Pinia/Vuex", "Tailwind or Bootstrap"],
+    "description": "Develop a multi-step form application using Vue.js and Pinia or Vuex for state management. The form will consist of 3 to 4 steps, each with its own set of fields and validation logic. Use a centralized store to preserve form state as users move between steps. A visual step indicator and navigation buttons will guide users through the process. Incorporate real-time input validation with inline error messages and prevent step advancement until current inputs are valid. At the end, include a summary screen for review, with options to go back and edit inputs or reset the entire form. Use a utility-first CSS framework like Tailwind or Bootstrap for styling and deploy the final form as part of a live portfolio project.",
+    "tasks": [
+      {
+        "id": "ZdRtBgLs",
+        "content": "Build 3–4 steps with 'Next'/'Back' navigation",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "KmTfQyPo",
+        "content": "Create a step indicator component",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "PrHxNvBa",
+        "content": "Implement conditional rendering of step components",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "UaGwCpJk",
+        "content": "Add 'Next' and 'Back' navigation buttons with logic",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "YvRnTxLi",
+        "content": "Use Pinia or Vuex to manage form state",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "OoXbLmEz",
+        "content": "Set up a central store for form fields",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "QnZiSkYh",
+        "content": "Update store data on every input change",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "TfRvJmWp",
+        "content": "Access stored data in each step component",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "LpZeWxAf",
+        "content": "Preserve state on step changes",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "BsWtChIj",
+        "content": "Add input validation for each step",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "DjVeKyQs",
+        "content": "Implement final summary/review screen",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "HgUfNaOr",
+        "content": "Add reset or edit functionality",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "RnYoMtKb",
+        "content": "Style with Bootstrap or Tailwind",
+        "isComplete": false,
+        "projectId": "Project-2"
+      },
+      {
+        "id": "XzGcPlTf",
+        "content": "Deploy the form and link in portfolio",
+        "isComplete": false,
+        "projectId": "Project-2"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 3: E-Commerce",
+    "id": "Project-3",
+    "tech": ["Vue.js", "Vue Router", "Tailwind/Bootstrap"],
+    "description": "Create a simplified e-commerce storefront using Vue.js. The site will feature a homepage with product listings, individual product detail pages, and a shopping cart. Products will be rendered dynamically using v-for loops, and routing will be handled by Vue Router. Implement cart logic that allows adding, removing, and updating item quantities, with cart data stored in Vuex, Pinia, or localStorage. Mock product data will be sourced from a local JSON file or a CMS API. Include a basic checkout confirmation page showing purchased items and total cost, and provide a return-to-shop button. Use Tailwind CSS or Bootstrap for layout and responsiveness, and deploy the project to a static hosting provider.",
+    "tasks": [
+      {
+        "id": "QfAxPdWy",
+        "content": "Create product listing and detail pages",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "WrJeLhNb",
+        "content": "Use ‘v-for’ to render product cards",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "TdFpZuRv",
+        "content": "Create dynamic route for each product page",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "YsUkNmTc",
+        "content": "Pass product data using props or route params",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "XcOiAzQm",
+        "content": "Add dynamic cart logic (add/remove/update)",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "VeHpGbKi",
+        "content": "Use Vue Router for navigation",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "PrElSyZu",
+        "content": "Mock products with a JSON file or CMS feed",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "LxNsQpHd",
+        "content": "Add basic checkout confirmation page",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "FiMbKhRt",
+        "content": "Apply clean styling with a UI framework",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "GiOpUyJz",
+        "content": "Deploy and test responsive layout",
+        "isComplete": false,
+        "projectId": "Project-3"
+      },
+      {
+        "id": "HoWyXvQp",
+        "content": "Document project in README",
+        "isComplete": false,
+        "projectId": "Project-3"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 4: Blog",
+    "id": "Project-4",
+    "tech": ["Nuxt", "Nuxt Content or CMS"],
+    "description": "Build a static blog using Nuxt and either the Nuxt Content module or a headless CMS. Blog posts will be authored in Markdown or managed via an external CMS like Strapi or Ghost. Utilize Nuxt’s dynamic routing system to create pages for each blog post and render Markdown content using built-in slots. Design the blog for optimal readability and ensure it adapts to mobile devices. Add SEO features such as dynamic meta tags, titles, descriptions, and canonical links for each post. Optionally highlight featured posts, filter by tags, and include blog previews with excerpts and dates. The final blog will be deployed with portfolio integration and linked to custom domain if desired.",
+    "tasks": [
+      {
+        "id": "yeZQgk6h",
+        "content": "Set up Nuxt Content or CMS integration",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "5NhJGHlC",
+        "content": "Build dynamic routes for blog posts",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "kCSH1BiG",
+        "content": "Render Markdown content cleanly",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "8JUEvOdF",
+        "content": "Add featured post and post previews",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "p6diJmi3",
+        "content": "Style for readability and mobile devices",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "FBe90VEk",
+        "content": "Enable SEO meta tags per post",
+        "isComplete": false,
+        "projectId": "Project-4"
+      },
+      {
+        "id": "xjl51u3r",
+        "content": "Deploy and link in your portfolio",
+        "isComplete": false,
+        "projectId": "Project-4"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 5: Task Manager",
+    "id": "Project-5",
+    "tech": ["Vue.js", "Pinia/Vuex", "Vue Draggable"],
+    "description": "Develop a task management application featuring a drag-and-drop interface for organizing tasks into categories such as To Do, In Progress, and Done. Use Vue 3 and a library like Vue Draggable or VueUse for drag-and-drop functionality. Tasks should be dynamically rendered and support reordering within and across columns. Each task will have properties such as title, due date, tags, and completion status. Implement logic to update the underlying data model when tasks are moved. Store task data in Pinia, Vuex, or localStorage and persist changes across sessions. Apply responsive styling and make tasks editable via modals or inline forms. This project demonstrates UI interactivity, real-time state management, and UX-focused design.",
+    "tasks": [
+      {
+        "id": "1lELg1eR",
+        "content": "Build task cards and category columns",
+        "isComplete": false,
+        "projectId": "Project-5"
+      },
+      {
+        "id": "E8zvL0Qq",
+        "content": "Use Vue Draggable or VueUse library",
+        "isComplete": false,
+        "projectId": "Project-5"
+      },
+      {
+        "id": "qI7OjD6o",
+        "content": "Allow reordering and status changes",
+        "isComplete": false,
+        "projectId": "Project-5"
+      },
+      {
+        "id": "VL6KWzxX",
+        "content": "Use state management or localStorage",
+        "isComplete": false,
+        "projectId": "Project-5"
+      },
+      {
+        "id": "JsAQ2xlp",
+        "content": "Add due date, tags, and completion status",
+        "isComplete": false,
+        "projectId": "Project-5"
+      },
+      {
+        "id": "UZtgGo5z",
+        "content": "Style for clarity and responsiveness",
+        "isComplete": false,
+        "projectId": "Project-5"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 6: Laravel API",
+    "id": "Project-6",
+    "tech": ["Laravel", "Sanctum/Passport", "Postman"],
+    "description": "Build a fully functional REST API using Laravel to manage resources like users, tasks, or products. Set up a Laravel project with configured database migrations, seeders, and models using Eloquent. Create standard CRUD endpoints (index, show, store, update, destroy) in resource controllers, and return clean JSON responses. Secure the API with token-based authentication using Laravel Sanctum or Passport, and protect sensitive routes with middleware. Validate requests using FormRequest classes and return standardized error responses. Use Postman or Insomnia for thorough API testing, and document the routes and expected payloads in a developer-friendly README. Optionally integrate Swagger or similar tools for auto-generated API docs.",
+    "tasks": [
+      {
+        "id": "jecSxjb3",
+        "content": "Set up Laravel project and database",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "SDi6IeHH",
+        "content": "Create User and Task models",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "yJDbaHKt",
+        "content": "Build CRUD endpoints for resources",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "0s1vElRA",
+        "content": "Implement API authentication (Sanctum or Passport)",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "Up3iV2bW",
+        "content": "Use Postman for endpoint testing",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "KnWhT3Us",
+        "content": "Add error handling and input validation",
+        "isComplete": false,
+        "projectId": "Project-6"
+      },
+      {
+        "id": "EA4H0NCg",
+        "content": "Document API routes and usage",
+        "isComplete": false,
+        "projectId": "Project-6"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 7: Nuxt Laravel",
+    "id": "Project-7",
+    "tech": ["Nuxt 3", "Laravel", "Axios", "PostgreSQL"],
+    "description": "Create a fully integrated full-stack application that connects a Nuxt 3 frontend to a Laravel backend via RESTful API. The app will allow users to interact with dynamic data—creating, updating, and displaying records such as projects or tasks. Use Axios or the Fetch API to communicate between frontend and backend, handle validation errors returned from Laravel, and sync frontend state using Vue’s reactivity system. Design and implement forms for data input, display lists with filtering or pagination, and provide feedback for success/error states. Deploy both the frontend (on Vercel/Netlify) and backend (on Render or VPS), managing environment variables to ensure clean, production-ready separation.",
+    "tasks": [
+      {
+        "id": "dnJXFrZa",
+        "content": "Set up Nuxt frontend and Laravel backend",
+        "isComplete": false,
+        "projectId": "Project-7"
+      },
+      {
+        "id": "LWuSTNXi",
+        "content": "Connect using Axios or Fetch",
+        "isComplete": false,
+        "projectId": "Project-7"
+      },
+      {
+        "id": "EM3jJLhM",
+        "content": "Build form to submit data to backend",
+        "isComplete": false,
+        "projectId": "Project-7"
+      },
+      {
+        "id": "ywCsFx67",
+        "content": "Display backend data in frontend lists",
+        "isComplete": false,
+        "projectId": "Project-7"
+      },
+      {
+        "id": "m7Csab4F",
+        "content": "Add user input validation",
+        "isComplete": false,
+        "projectId": "Project-7"
+      },
+      {
+        "id": "oLDZIYg0",
+        "content": "Deploy both frontend and backend",
+        "isComplete": false,
+        "projectId": "Project-7"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 8: PostgreSQL Schema",
+    "id": "Project-8",
+    "tech": ["Laravel", "PostgreSQL", "Eloquent"],
+    "description": "Design and implement a normalized PostgreSQL database schema using Laravel migrations. Plan out at least three related entities (e.g., users, tasks, and tags) and define relationships such as one-to-many and many-to-many using foreign keys and pivot tables. Use Laravel’s migration syntax (foreignId()->constrained()) to enforce referential integrity, and Eloquent models to express relationships in code. Seed the database with realistic sample data and perform test queries using Laravel Tinker or controllers. Create and export an entity-relationship diagram (ERD) using tools like dbdiagram.io or drawSQL to visually represent your schema. This project emphasizes strong data modeling, relational thinking, and backend structure planning.",
+    "tasks": [
+      {
+        "id": "TJX18vPS",
+        "content": "Design at least 3–4 related tables",
+        "isComplete": false,
+        "projectId": "Project-8"
+      },
+      {
+        "id": "hvd6mkW7",
+        "content": "Use Laravel migrations to create schema",
+        "isComplete": false,
+        "projectId": "Project-8"
+      },
+      {
+        "id": "L5X1eWpj",
+        "content": "Define Eloquent relationships",
+        "isComplete": false,
+        "projectId": "Project-8"
+      },
+      {
+        "id": "EzmHmp65",
+        "content": "Seed database with test data",
+        "isComplete": false,
+        "projectId": "Project-8"
+      },
+      {
+        "id": "G7iFr74u",
+        "content": "Build sample queries to validate structure",
+        "isComplete": false,
+        "projectId": "Project-8"
+      },
+      {
+        "id": "4i0Oa9rU",
+        "content": "Create ER diagram or schema visual",
+        "isComplete": false,
+        "projectId": "Project-8"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 9: Markdown Blog",
+    "id": "Project-9",
+    "tech": ["Vue 3", "Pinia", "Chart.js/Recharts"],
+    "description": "Build a customizable dashboard UI using Vue 3 that allows users to add, remove, and rearrange widgets displaying various types of information. Each widget could display charts, data summaries, or activity logs, and update in real time or from mock API data. Implement layout features like drag-and-drop reordering, resizable components, and section grouping. Use Pinia to manage the widget state and Chart.js or Recharts for visualizations. The dashboard should be fully responsive and support user settings or preferences saved in localStorage or a backend. This project highlights modular UI architecture, interactivity, and visual data representation.",
+    "tasks": [
+      {
+        "id": "RswPHmPk",
+        "content": "Set up Nuxt Content or CMS integration",
+        "isComplete": false,
+        "projectId": "Project-9"
+      },
+      {
+        "id": "EM7fxLw8",
+        "content": "Build dynamic routes for blog posts",
+        "isComplete": false,
+        "projectId": "Project-9"
+      },
+      {
+        "id": "FKgv1bAz",
+        "content": "Render Markdown content cleanly",
+        "isComplete": false,
+        "projectId": "Project-9"
+      },
+      {
+        "id": "IlZcNsLl",
+        "content": "Add featured post and post previews",
+        "isComplete": false,
+        "projectId": "Project-9"
+      },
+      {
+        "id": "YxvTPjtX",
+        "content": "Style for readability and mobile devices",
+        "isComplete": false,
+        "projectId": "Project-9"
+      },
+      {
+        "id": "JqA6fMnO",
+        "content": "Enable SEO meta tags per post",
+        "isComplete": false,
+        "projectId": "Project-9"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 10: Charts Dashboard",
+    "id": "Project-10",
+    "tech": ["Vue 3", "Draggable", "Pinia", "Tailwind"],
+    "description": "Create a full-featured Kanban board using Vue 3, allowing users to manage tasks across multiple columns representing workflow stages (e.g., Backlog, In Progress, Done). Use Vue Draggable to support drag-and-drop reordering between and within columns. Each task should be editable, taggable, and track a status, due date, and priority. Persist state using Pinia or localStorage and build components that update reactively as users move tasks. Add color-coding, modals for editing task details, and smooth animations for interactions. This project closely mirrors modern productivity apps and reinforces component hierarchy, state syncing, and drag-based UX.",
+    "tasks": [
+      {
+        "id": "nEGDOP4o",
+        "content": "Use Chart.js or ApexCharts",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "O2kCs1fc",
+        "content": "Install and configure charting library",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "YK1sggl6",
+        "content": "Pass data props from parent to chart component",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "4MYueSRC",
+        "content": "Choose multiple chart types (e.g., bar, line, pie)",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "FlPG0ggj",
+        "content": "Display at least 3 chart types",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "k8rrCP3W",
+        "content": "Bar chart (e.g., sales by month)",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "GRm0qvWc",
+        "content": "Line chart (e.g., performance trends)",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "f1s2YVOI",
+        "content": "Pie chart (e.g., category breakdown)",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "ITFdesWr",
+        "content": "Pull data from API or local file",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "8kZvUrDv",
+        "content": "Use real API data if possible",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "H9R8Qqxj",
+        "content": "Provide fallback with sample JSON",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "tqG38axz",
+        "content": "Design responsive card layout",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "e54pZlD0",
+        "content": "Create grid layout using Flexbox or CSS Grid",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "WSCZW3te",
+        "content": "Stack charts for mobile view",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "btxvlDDC",
+        "content": "Add filters or time range selectors",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "Aiq7vPZ6",
+        "content": "Use dropdowns or buttons to change timeframes",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "DiiyU31l",
+        "content": "Dynamically update chart datasets",
+        "isComplete": false,
+        "projectId": "Project-10"
+      },
+      {
+        "id": "gY7lswig",
+        "content": "Deploy and add to portfolio",
+        "isComplete": false,
+        "projectId": "Project-10"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 11: App Clone",
+    "id": "Project-11",
+    "tech": ["Vue 3", "Three.js", "GLTF"],
+    "description": "Integrate Three.js into a Vue 3 app to create a simple 3D scene or model viewer. Load and render 3D models in formats like GLTF or GLB, and set up basic scene elements such as cameras, lights, and materials. Enable orbit or pan controls to allow the user to explore the scene. Optionally allow interaction with the model (e.g., highlighting parts, showing metadata, switching textures). Use a canvas-based component to render the Three.js scene and keep it reactive to props or data changes. This project explores real-time rendering, WebGL, and Vue component integration with 3D libraries.",
+    "tasks": [
+      {
+        "id": "88GyFWI8",
+        "content": "Plan and replicate major UI features",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "YFFY7Sha",
+        "content": "Analyze original app layout and workflows",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "VHXzcTCb",
+        "content": "Choose minimum viable feature set to implement",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "ob3KyN1j",
+        "content": "Handle authentication or user switching",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "Mkt1bFxh",
+        "content": "Create login/register pages",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "kJGcDx00",
+        "content": "Conditionally render components based on auth status",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "1Kqwk8st",
+        "content": "Implement drag-and-drop or interactive feeds",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "Q0KBxcVE",
+        "content": "Use vue-draggable, sortablejs, or custom drag logic",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "Gtmn5dtr",
+        "content": "Bind state changes to UI reordering",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "8JISayzx",
+        "content": "Use router for nested navigation",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "KJ2p2FRo",
+        "content": "Create nested routes",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "u129nx3v",
+        "content": "Sync route params with state display",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "J3izJV0H",
+        "content": "Focus on polished UX and responsiveness",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "S1sQ0ebr",
+        "content": "Match spacing, typography, and colors of real app",
+        "isComplete": false,
+        "projectId": "Project-11"
+      },
+      {
+        "id": "i6fAQenk",
+        "content": "Test UI across screen sizes",
+        "isComplete": false,
+        "projectId": "Project-11"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 12: JWT Auth",
+    "id": "Project-12",
+    "tech": ["Vue 3", "Laravel", "Sanctum/Passport"],
+    "description": "Build a secure authentication system using JSON Web Tokens (JWT) for a full-stack Vue + Laravel application. On the backend, create login and registration endpoints that return tokens upon success. On the frontend, securely store the token in HttpOnly cookies or localStorage and use it to authorize API requests. Add Vue Router guards to restrict access to authenticated routes and display different UI states for logged-in and guest users. Implement logout, token refresh (if needed), and feedback messages. This project teaches best practices in modern frontend/backend authentication, secure token handling, and access control.",
+    "tasks": [
+      {
+        "id": "N03dvOdi",
+        "content": "Create login/register APIs in Laravel",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "ccqdsiQN",
+        "content": "Build controller methods for auth",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "XXeO3Uzy",
+        "content": "Return success token or error on login",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "swwR0Sh0",
+        "content": "Generate and store JWT tokens",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "i2kvovHn",
+        "content": "Use Laravel Sanctum or Passport to issue tokens",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "9o0Qw26I",
+        "content": "Store token in frontend securely",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "bmZDcWdb",
+        "content": "Use Vue route guards for protection",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "b183S0Wc",
+        "content": "Check for valid token on each protected route",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "txOQCxHJ",
+        "content": "Redirect unauthenticated users to login",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "0d70kDAv",
+        "content": "Show logged-in vs guest UI states",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "QftzsC23",
+        "content": "Hide/show nav links or buttons based on auth status",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "F4mgY1op",
+        "content": "Display user-specific content",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "XSPlwvpt",
+        "content": "Add logout and refresh token support",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "QvQlIijn",
+        "content": "Invalidate token on logout via API",
+        "isComplete": false,
+        "projectId": "Project-12"
+      },
+      {
+        "id": "FGsNQQzi",
+        "content": "Optionally implement refresh token rotation",
+        "isComplete": false,
+        "projectId": "Project-12"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 13: Deployment",
+    "id": "Project-13",
+    "tech": ["Nuxt", "Laravel", "Vercel", "Render"],
+    "description": "Deploy a production-ready full-stack app with Nuxt (frontend) and Laravel (backend). Host the frontend on Vercel or Netlify with automatic builds from GitHub, and deploy the backend to Render or a virtual server with proper environment configuration. Set up environment variables for API URLs, database credentials, and secrets. Connect frontend and backend using API base URLs and ensure CORS policies are correctly configured. Add monitoring and run end-to-end testing in the deployed environment. This project simulates real-world deployment workflows and teaches CI/CD, environment setup, and full-stack release management.",
+    "tasks": [
+      {
+        "id": "iFPEBVO2",
+        "content": "Host Nuxt app on Vercel or Netlify",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "7N6HwYn7",
+        "content": "Connect GitHub repo to Vercel or Netlify",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "GqTAoV12",
+        "content": "Add build command and output folder",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "G30pnyw2",
+        "content": "Enable automatic deploys on push",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "SgoaGWDP",
+        "content": "Host Laravel backend on Render or VPS",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "hMKb128D",
+        "content": "Use Render web service with Laravel start command",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "PM5MMgA8",
+        "content": "Set up database add-on or external DB",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "xORhSjtf",
+        "content": "Configure storage, queues, and DB access permissions",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "14JUH7XD",
+        "content": "Set up environment variables and secrets",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "hQ1aY0zP",
+        "content": "Use .env.production or platform env manager",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "dvHiZo3c",
+        "content": "Test deployed version for stability",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "RCWvkqrG",
+        "content": "Open app on real mobile/desktop devices",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "A5ja7cXK",
+        "content": "Test login, CRUD actions, and errors in production",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "J4Rsd4bP",
+        "content": "Link backend and frontend via API URL",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "zsgQrrua",
+        "content": "Set frontend .env to deployed API",
+        "isComplete": false,
+        "projectId": "Project-13"
+      },
+      {
+        "id": "yC7olJVd",
+        "content": "Ensure CORS is enabled on Laravel backend",
+        "isComplete": false,
+        "projectId": "Project-13"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 14: Documentation",
+    "id": "Project-14",
+    "tech": ["Markdown", "GitHub", "README", "GIFs"],
+    "description": "Write high-quality technical documentation for your projects, suitable for GitHub or open-source publication. Each project should have a README that includes a project summary, technologies used, setup instructions, usage examples, and screenshots or GIFs of key features. Add licensing information, contribution guidelines, and links to live demos. Include visual materials like architecture diagrams or UI previews to communicate structure and design. This project demonstrates professional communication skills, dev onboarding best practices, and presentation of work in a portfolio or collaborative setting.",
+    "tasks": [
+      {
+        "id": "92jUGghh",
+        "content": "Create clear README with project overview",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "QyaKtVEg",
+        "content": "Include title, description, and live demo link",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "SjVbpNr1",
+        "content": "Summarize goals and challenges solved",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "9BUesnTU",
+        "content": "Include setup instructions and tech stack",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "prApCl02",
+        "content": "Add install/run steps for both frontend and backend",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "fnQv4T2d",
+        "content": "List major tools/libraries used",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "t0adXWy8",
+        "content": "Add screenshots or demo GIFs",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "oOw9F0n6",
+        "content": "Capture responsive layouts and key UI states",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "tkOKaTc7",
+        "content": "Use GIFs for animated interactions or walkthroughs",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "Lk884r2G",
+        "content": "Provide example .env and seed data",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "kAC22jaN",
+        "content": "Include example config with dummy API keys",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "ll2cM5vc",
+        "content": "Add JSON or SQL dump for dev DB",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "8Gjw75Cn",
+        "content": "Add license and contribution notes",
+        "isComplete": false,
+        "projectId": "Project-14"
+      },
+      {
+        "id": "9PRn7klq",
+        "content": "Write basic contributing guidelines",
+        "isComplete": false,
+        "projectId": "Project-14"
+      }
+    ],
+    "progress": 0
+  },
+  {
+    "name": "Project 15: Capstone Hub",
+    "id": "Project-15",
+    "tech": ["Nuxt/React", "Laravel", "JWT", "PostgreSQL", "A/B Testing", "SEO"],
+    "description": "Design and build a comprehensive learning platform that blends frontend and backend skills into one large-scale project. The site should allow users to register, log in, and track their progress through lessons, tutorials, or blog posts. Admins can publish new content and track user behavior through integrated analytics. Implement A/B testing workflows to experiment with different layouts or CTAs, and store user engagement metrics like scroll depth, click events, and time on page. SEO strategies like meta tags, schema markup, and dynamic sitemaps will drive visibility. The app is powered by Nuxt or React on the frontend and Laravel + PostgreSQL on the backend. This project showcases your ability to plan, build, scale, and analyze a full-stack application.",
+    "tasks": [
+      {
+        "id": "VO986w8B",
+        "content": "Implement full-stack app structure",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "9wZAAb5y",
+        "content": "Use Nuxt or React for frontend",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "Mg7wrc85",
+        "content": "Laravel backend with REST API",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "0O9LCk3G",
+        "content": "PostgreSQL schema for users, content, tracking",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "LL4FntoM",
+        "content": "Set up user authentication (JWT + middleware)",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "3ndPJnxq",
+        "content": "Register/login endpoints with token issuing",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "8GDP4p0e",
+        "content": "Protect dashboard and blog tools via middleware",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "xXyFBqGt",
+        "content": "Store tokens securely and guard client routes",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "izKjlMz0",
+        "content": "Design relational DB schema (users, blogs, sessions)",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "ZoZTb9TD",
+        "content": "Blog table with SEO tags and topic tags",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "nohOP0HB",
+        "content": "Session table with timestamp and A/B version",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "2jNeSdHb",
+        "content": "Optional: engagement metrics table",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "Hq5zV6et",
+        "content": "Build responsive and UX-optimized UI",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "WniRe7kr",
+        "content": "Use animations and mobile layouts",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "z8O3xyz1",
+        "content": "Add dark mode toggle or reader mode",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "2Vc8ori7",
+        "content": "Add user behavior tracking (analytics)",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "69yxBq7J",
+        "content": "Capture clicks, scroll depth, CTA events",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "yVcD6JRf",
+        "content": "Store anonymized session data",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "5Z7ihNKg",
+        "content": "Create A/B testing system",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "rC5VB8hU",
+        "content": "Serve different layouts, headlines, or CTAs",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "IugN7sBp",
+        "content": "Design SEO-optimized blog architecture",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "mOyQIV9c",
+        "content": "Set meta tags and OpenGraph for each post",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "bS0k29Kp",
+        "content": "Use dynamic sitemap and RSS feed",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "Kh5PzISs",
+        "content": "Create one month of content (32 posts)",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "XtYdosSf",
+        "content": "Follow SEO structure (keyword, intro, headers)",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "kZIpSwNS",
+        "content": "Fully deploy frontend + backend",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "DUXp2FWt",
+        "content": "Test all flows and fix bugs",
+        "isComplete": false,
+        "projectId": "Project-15"
+      },
+      {
+        "id": "rs1Y4Eet",
+        "content": "Document everything including results and strategy",
+        "isComplete": false,
+        "projectId": "Project-15"
+      }
+    ],
+    "progress": 0
+  }
+]
