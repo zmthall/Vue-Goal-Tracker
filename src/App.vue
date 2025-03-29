@@ -4,14 +4,13 @@
 </template>
 
 <script setup lang="ts">
-import NoteModal from './components/note/NoteModal.vue';
-import ProjectDashboard from './components/project/ProjectDashboard.vue';
-// import useProjectStore from './stores/projectStore.ts';
-// import { useUiStore } from './stores/uiStore';
+import NoteModal from "./components/note/NoteModal.vue";
+import ProjectDashboard from "./components/project/ProjectDashboard.vue";
+import { useProjectStore } from "./stores/projectStore";
+import Projects from "./assets/Projects.json";
 
-// const projectStore = useProjectStore();
-
-// const uiStore = useUiStore();
+const projectStore = useProjectStore();
+projectStore.projects = Projects;
 </script>
 
 <style></style>
